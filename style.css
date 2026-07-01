@@ -62,7 +62,7 @@ nav {
 
 .main-pic {
     height: 790px;
-    background-image: url(./Home\ Page/assets/asset\ 11.png);
+    background-image: url(/Home\ Page/assets/asset\ 11.png);
     align-items: center;
 }
 
@@ -147,7 +147,7 @@ h2 {
     justify-content: center;
     gap: 5rem;
     margin-top: 4rem;
-    background-image: url(./Home\ Page/assets/asset\ 13.png);
+    background-image: url(/Home\ Page/assets/asset\ 13.png);
 }
 
 .service-text {
@@ -215,7 +215,7 @@ h3 {
 
 .footer-area {
     height: 860px;
-    background-image: url(./Home\ Page/assets/asset\ 14.png);
+    background-image: url(/Home\ Page/assets/asset\ 14.png);
     flex-direction: column;
     align-items: center;
     justify-content: center;
